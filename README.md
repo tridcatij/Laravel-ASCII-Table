@@ -10,7 +10,7 @@ This class will convert multi-dimensional arrays into ASCII Tabled, and vise-ver
 You can install this package via composer using this command:
 
 ```bash
-composer require tridcatij/asciitables
+composer require tridcatij/asciitables:dev-master --prefer-source
 ```
 
 Add the service provider to your `config/app.php` file within the `providers` key:
