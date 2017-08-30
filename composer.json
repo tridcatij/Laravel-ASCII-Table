@@ -1,0 +1,13 @@
+{
+    "name": "tridcatij/asciitables",
+    "description": "This package convert multi-dimensional arrays into ASCII tables.",
+    "keywords": ["laravel", "ascii", "table"],
+    "authors": [
+        {
+            "name": "Anton Zverev",
+            "email": "antonwise86@gmail.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {}
+}
